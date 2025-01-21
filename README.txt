@@ -5,7 +5,6 @@
 ## se usan varias técnicas para evitar la persistencia de los instaladores de actualización en el sistema
 ## se crean reglas en el firewall para bloquear conexiones a ips de servidores de actualizaciones conocidos
 ## se crean tareas programadas para que se ejecuten bucles en cada inicio de sistema registrando y alertando sobre cambios y conexiones de manera visual sin instalar aplicaciones externas (o de terceros)
-# con la colaboración de OpenAI
 @raulc0nes
 
 
